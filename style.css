@@ -71,6 +71,6 @@ footer{
     font-family: Verdana;
 
 }
-img{
-    max-with:50%;
+div img{
+    max-with:100%;
 }
